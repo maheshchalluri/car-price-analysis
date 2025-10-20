@@ -137,5 +137,11 @@ Low overfitting indicates the model generalizes well.
 ---
 
 ## 8️⃣ Repository Structure
+<img width="200" height="168" alt="image" src="https://github.com/user-attachments/assets/75ca6c02-e7de-4e19-811d-1daf34a816ff" />
+
+**Notebook** : What_drives_price_of_a_car.ipynb
+
+**Data** : vehicles.csv in data.zip
+
 
 
